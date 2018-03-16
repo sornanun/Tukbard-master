@@ -1,0 +1,37 @@
+apply plugin: 'com.android.library'
+apply plugin: 'maven'
+apply plugin: 'signing'
+
+// configure android plugin
+
+android {
+    compileSdkVersion 23
+    buildToolsVersion '25.0.0'
+
+    defaultConfig {
+        minSdkVersion 17
+        targetSdkVersion 23
+        versionCode 1
+        versionName "1.0"
+    }
+
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_6
+        targetCompatibility JavaVersion.VERSION_1_6
+    }
+}
+
+
+// tasks for packaging source and javadocs artifacts
+
+task javadocGenerate(type: Javadoc) {
+    // prints javadoc outputs when info logging level set
+    logging.captureStandardError LogLevel.INFO
+
+    description = "Generates javadoc"
+    source = android.sourceSets.main.java.srcDirs
+
+    classpath += project.files(android.getBootClasspath().join(File.pathSeparator))
+    exclude '**/BuildConfig.java'
+    exclude '**/R.java'
+}

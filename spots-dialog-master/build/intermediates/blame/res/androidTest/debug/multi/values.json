@@ -1,0 +1,123 @@
+[
+    {
+        "outputFile": "D:\\Application Takbard\\Tukbard-master\\spots-dialog-master\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 74,
+                    "endOffset": 125
+                },
+                "from": {
+                    "file": "D:\\Application Takbard\\Tukbard-master\\spots-dialog-master\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 74,
+                        "endOffset": 125
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 401,
+                    "endColumn": 46,
+                    "endOffset": 443
+                },
+                "from": {
+                    "file": "D:\\Application Takbard\\Tukbard-master\\spots-dialog-master\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 401,
+                        "endColumn": 46,
+                        "endOffset": 443
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 448,
+                    "endColumn": 46,
+                    "endOffset": 490
+                },
+                "from": {
+                    "file": "D:\\Application Takbard\\Tukbard-master\\spots-dialog-master\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 448,
+                        "endColumn": 46,
+                        "endOffset": 490
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 495,
+                    "endColumn": 39,
+                    "endOffset": 530
+                },
+                "from": {
+                    "file": "D:\\Application Takbard\\Tukbard-master\\spots-dialog-master\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 495,
+                        "endColumn": 39,
+                        "endOffset": 530
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 535,
+                    "endColumn": 43,
+                    "endOffset": 574
+                },
+                "from": {
+                    "file": "D:\\Application Takbard\\Tukbard-master\\spots-dialog-master\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 535,
+                        "endColumn": 43,
+                        "endOffset": 574
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 579,
+                    "endLine": 12,
+                    "endColumn": 12,
+                    "endOffset": 861
+                },
+                "from": {
+                    "file": "D:\\Application Takbard\\Tukbard-master\\spots-dialog-master\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 579,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 861
+                    }
+                }
+            }
+        ]
+    }
+]

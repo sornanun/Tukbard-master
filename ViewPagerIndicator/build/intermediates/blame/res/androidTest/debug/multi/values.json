@@ -1,0 +1,948 @@
+[
+    {
+        "outputFile": "D:\\Application Takbard\\Tukbard-master\\ViewPagerIndicator\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 44,
+                    "endOffset": 95
+                },
+                "from": {
+                    "file": "D:\\Application Takbard\\Tukbard-master\\ViewPagerIndicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 44,
+                        "endOffset": 95
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 100,
+                    "endColumn": 47,
+                    "endOffset": 143
+                },
+                "from": {
+                    "file": "D:\\Application Takbard\\Tukbard-master\\ViewPagerIndicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 100,
+                        "endColumn": 47,
+                        "endOffset": 143
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 148,
+                    "endColumn": 49,
+                    "endOffset": 193
+                },
+                "from": {
+                    "file": "D:\\Application Takbard\\Tukbard-master\\ViewPagerIndicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 148,
+                        "endColumn": 49,
+                        "endOffset": 193
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 198,
+                    "endColumn": 49,
+                    "endOffset": 243
+                },
+                "from": {
+                    "file": "D:\\Application Takbard\\Tukbard-master\\ViewPagerIndicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 198,
+                        "endColumn": 49,
+                        "endOffset": 243
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 248,
+                    "endColumn": 62,
+                    "endOffset": 306
+                },
+                "from": {
+                    "file": "D:\\Application Takbard\\Tukbard-master\\ViewPagerIndicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 248,
+                        "endColumn": 62,
+                        "endOffset": 306
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 311,
+                    "endColumn": 59,
+                    "endOffset": 366
+                },
+                "from": {
+                    "file": "D:\\Application Takbard\\Tukbard-master\\ViewPagerIndicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 311,
+                        "endColumn": 59,
+                        "endOffset": 366
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 371,
+                    "endColumn": 60,
+                    "endOffset": 427
+                },
+                "from": {
+                    "file": "D:\\Application Takbard\\Tukbard-master\\ViewPagerIndicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 371,
+                        "endColumn": 60,
+                        "endOffset": 427
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 432,
+                    "endColumn": 66,
+                    "endOffset": 494
+                },
+                "from": {
+                    "file": "D:\\Application Takbard\\Tukbard-master\\ViewPagerIndicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 432,
+                        "endColumn": 66,
+                        "endOffset": 494
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 499,
+                    "endColumn": 62,
+                    "endOffset": 557
+                },
+                "from": {
+                    "file": "D:\\Application Takbard\\Tukbard-master\\ViewPagerIndicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 499,
+                        "endColumn": 62,
+                        "endOffset": 557
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 562,
+                    "endColumn": 69,
+                    "endOffset": 627
+                },
+                "from": {
+                    "file": "D:\\Application Takbard\\Tukbard-master\\ViewPagerIndicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 562,
+                        "endColumn": 69,
+                        "endOffset": 627
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 632,
+                    "endColumn": 71,
+                    "endOffset": 699
+                },
+                "from": {
+                    "file": "D:\\Application Takbard\\Tukbard-master\\ViewPagerIndicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 632,
+                        "endColumn": 71,
+                        "endOffset": 699
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 704,
+                    "endColumn": 71,
+                    "endOffset": 771
+                },
+                "from": {
+                    "file": "D:\\Application Takbard\\Tukbard-master\\ViewPagerIndicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 704,
+                        "endColumn": 71,
+                        "endOffset": 771
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 776,
+                    "endColumn": 73,
+                    "endOffset": 845
+                },
+                "from": {
+                    "file": "D:\\Application Takbard\\Tukbard-master\\ViewPagerIndicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 776,
+                        "endColumn": 73,
+                        "endOffset": 845
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 850,
+                    "endColumn": 75,
+                    "endOffset": 921
+                },
+                "from": {
+                    "file": "D:\\Application Takbard\\Tukbard-master\\ViewPagerIndicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 850,
+                        "endColumn": 75,
+                        "endOffset": 921
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 926,
+                    "endColumn": 72,
+                    "endOffset": 994
+                },
+                "from": {
+                    "file": "D:\\Application Takbard\\Tukbard-master\\ViewPagerIndicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 926,
+                        "endColumn": 72,
+                        "endOffset": 994
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 999,
+                    "endColumn": 74,
+                    "endOffset": 1069
+                },
+                "from": {
+                    "file": "D:\\Application Takbard\\Tukbard-master\\ViewPagerIndicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 999,
+                        "endColumn": 74,
+                        "endOffset": 1069
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1074,
+                    "endColumn": 70,
+                    "endOffset": 1140
+                },
+                "from": {
+                    "file": "D:\\Application Takbard\\Tukbard-master\\ViewPagerIndicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1074,
+                        "endColumn": 70,
+                        "endOffset": 1140
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1145,
+                    "endColumn": 78,
+                    "endOffset": 1219
+                },
+                "from": {
+                    "file": "D:\\Application Takbard\\Tukbard-master\\ViewPagerIndicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1145,
+                        "endColumn": 78,
+                        "endOffset": 1219
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1224,
+                    "endColumn": 61,
+                    "endOffset": 1281
+                },
+                "from": {
+                    "file": "D:\\Application Takbard\\Tukbard-master\\ViewPagerIndicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1224,
+                        "endColumn": 61,
+                        "endOffset": 1281
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1286,
+                    "endColumn": 62,
+                    "endOffset": 1344
+                },
+                "from": {
+                    "file": "D:\\Application Takbard\\Tukbard-master\\ViewPagerIndicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1286,
+                        "endColumn": 62,
+                        "endOffset": 1344
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1349,
+                    "endColumn": 77,
+                    "endOffset": 1422
+                },
+                "from": {
+                    "file": "D:\\Application Takbard\\Tukbard-master\\ViewPagerIndicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1349,
+                        "endColumn": 77,
+                        "endOffset": 1422
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1427,
+                    "endColumn": 78,
+                    "endOffset": 1501
+                },
+                "from": {
+                    "file": "D:\\Application Takbard\\Tukbard-master\\ViewPagerIndicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1427,
+                        "endColumn": 78,
+                        "endOffset": 1501
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1506,
+                    "endColumn": 92,
+                    "endOffset": 1594
+                },
+                "from": {
+                    "file": "D:\\Application Takbard\\Tukbard-master\\ViewPagerIndicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1506,
+                        "endColumn": 92,
+                        "endOffset": 1594
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1599,
+                    "endColumn": 92,
+                    "endOffset": 1687
+                },
+                "from": {
+                    "file": "D:\\Application Takbard\\Tukbard-master\\ViewPagerIndicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1599,
+                        "endColumn": 92,
+                        "endOffset": 1687
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1692,
+                    "endColumn": 107,
+                    "endOffset": 1795
+                },
+                "from": {
+                    "file": "D:\\Application Takbard\\Tukbard-master\\ViewPagerIndicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1692,
+                        "endColumn": 107,
+                        "endOffset": 1795
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1800,
+                    "endColumn": 107,
+                    "endOffset": 1903
+                },
+                "from": {
+                    "file": "D:\\Application Takbard\\Tukbard-master\\ViewPagerIndicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1800,
+                        "endColumn": 107,
+                        "endOffset": 1903
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 4213,
+                    "endColumn": 61,
+                    "endOffset": 4270
+                },
+                "from": {
+                    "file": "D:\\Application Takbard\\Tukbard-master\\ViewPagerIndicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 4,
+                        "startOffset": 4213,
+                        "endColumn": 61,
+                        "endOffset": 4270
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 4275,
+                    "endColumn": 67,
+                    "endOffset": 4338
+                },
+                "from": {
+                    "file": "D:\\Application Takbard\\Tukbard-master\\ViewPagerIndicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 41,
+                        "startColumn": 4,
+                        "startOffset": 4275,
+                        "endColumn": 67,
+                        "endOffset": 4338
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 4343,
+                    "endColumn": 62,
+                    "endOffset": 4401
+                },
+                "from": {
+                    "file": "D:\\Application Takbard\\Tukbard-master\\ViewPagerIndicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 42,
+                        "startColumn": 4,
+                        "startOffset": 4343,
+                        "endColumn": 62,
+                        "endOffset": 4401
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 4406,
+                    "endColumn": 64,
+                    "endOffset": 4466
+                },
+                "from": {
+                    "file": "D:\\Application Takbard\\Tukbard-master\\ViewPagerIndicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 43,
+                        "startColumn": 4,
+                        "startOffset": 4406,
+                        "endColumn": 64,
+                        "endOffset": 4466
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 4471,
+                    "endColumn": 65,
+                    "endOffset": 4532
+                },
+                "from": {
+                    "file": "D:\\Application Takbard\\Tukbard-master\\ViewPagerIndicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 44,
+                        "startColumn": 4,
+                        "startOffset": 4471,
+                        "endColumn": 65,
+                        "endOffset": 4532
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 4537,
+                    "endColumn": 66,
+                    "endOffset": 4599
+                },
+                "from": {
+                    "file": "D:\\Application Takbard\\Tukbard-master\\ViewPagerIndicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 45,
+                        "startColumn": 4,
+                        "startOffset": 4537,
+                        "endColumn": 66,
+                        "endOffset": 4599
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 4604,
+                    "endColumn": 77,
+                    "endOffset": 4677
+                },
+                "from": {
+                    "file": "D:\\Application Takbard\\Tukbard-master\\ViewPagerIndicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 46,
+                        "startColumn": 4,
+                        "startOffset": 4604,
+                        "endColumn": 77,
+                        "endOffset": 4677
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 4682,
+                    "endColumn": 89,
+                    "endOffset": 4767
+                },
+                "from": {
+                    "file": "D:\\Application Takbard\\Tukbard-master\\ViewPagerIndicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 47,
+                        "startColumn": 4,
+                        "startOffset": 4682,
+                        "endColumn": 89,
+                        "endOffset": 4767
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 4772,
+                    "endColumn": 72,
+                    "endOffset": 4840
+                },
+                "from": {
+                    "file": "D:\\Application Takbard\\Tukbard-master\\ViewPagerIndicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 48,
+                        "startColumn": 4,
+                        "startOffset": 4772,
+                        "endColumn": 72,
+                        "endOffset": 4840
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 4845,
+                    "endColumn": 68,
+                    "endOffset": 4909
+                },
+                "from": {
+                    "file": "D:\\Application Takbard\\Tukbard-master\\ViewPagerIndicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 49,
+                        "startColumn": 4,
+                        "startOffset": 4845,
+                        "endColumn": 68,
+                        "endOffset": 4909
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 4914,
+                    "endColumn": 64,
+                    "endOffset": 4974
+                },
+                "from": {
+                    "file": "D:\\Application Takbard\\Tukbard-master\\ViewPagerIndicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 50,
+                        "startColumn": 4,
+                        "startOffset": 4914,
+                        "endColumn": 64,
+                        "endOffset": 4974
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 4979,
+                    "endColumn": 67,
+                    "endOffset": 5042
+                },
+                "from": {
+                    "file": "D:\\Application Takbard\\Tukbard-master\\ViewPagerIndicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 51,
+                        "startColumn": 4,
+                        "startOffset": 4979,
+                        "endColumn": 67,
+                        "endOffset": 5042
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 52,
+                    "startColumn": 4,
+                    "startOffset": 5047,
+                    "endColumn": 65,
+                    "endOffset": 5108
+                },
+                "from": {
+                    "file": "D:\\Application Takbard\\Tukbard-master\\ViewPagerIndicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 52,
+                        "startColumn": 4,
+                        "startOffset": 5047,
+                        "endColumn": 65,
+                        "endOffset": 5108
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 53,
+                    "startColumn": 4,
+                    "startOffset": 5113,
+                    "endColumn": 68,
+                    "endOffset": 5177
+                },
+                "from": {
+                    "file": "D:\\Application Takbard\\Tukbard-master\\ViewPagerIndicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 53,
+                        "startColumn": 4,
+                        "startOffset": 5113,
+                        "endColumn": 68,
+                        "endOffset": 5177
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 5182,
+                    "endColumn": 78,
+                    "endOffset": 5256
+                },
+                "from": {
+                    "file": "D:\\Application Takbard\\Tukbard-master\\ViewPagerIndicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 54,
+                        "startColumn": 4,
+                        "startOffset": 5182,
+                        "endColumn": 78,
+                        "endOffset": 5256
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 55,
+                    "startColumn": 4,
+                    "startOffset": 5261,
+                    "endColumn": 69,
+                    "endOffset": 5326
+                },
+                "from": {
+                    "file": "D:\\Application Takbard\\Tukbard-master\\ViewPagerIndicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 55,
+                        "startColumn": 4,
+                        "startOffset": 5261,
+                        "endColumn": 69,
+                        "endOffset": 5326
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 56,
+                    "startColumn": 4,
+                    "startOffset": 5331,
+                    "endColumn": 72,
+                    "endOffset": 5399
+                },
+                "from": {
+                    "file": "D:\\Application Takbard\\Tukbard-master\\ViewPagerIndicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 56,
+                        "startColumn": 4,
+                        "startOffset": 5331,
+                        "endColumn": 72,
+                        "endOffset": 5399
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 57,
+                    "startColumn": 4,
+                    "startOffset": 5404,
+                    "endColumn": 73,
+                    "endOffset": 5473
+                },
+                "from": {
+                    "file": "D:\\Application Takbard\\Tukbard-master\\ViewPagerIndicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 57,
+                        "startColumn": 4,
+                        "startOffset": 5404,
+                        "endColumn": 73,
+                        "endOffset": 5473
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 5478,
+                    "endLine": 61,
+                    "endColumn": 12,
+                    "endOffset": 5673
+                },
+                "from": {
+                    "file": "D:\\Application Takbard\\Tukbard-master\\ViewPagerIndicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 58,
+                        "startColumn": 4,
+                        "startOffset": 5478,
+                        "endLine": 61,
+                        "endColumn": 12,
+                        "endOffset": 5673
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 62,
+                    "startColumn": 4,
+                    "startOffset": 5678,
+                    "endLine": 65,
+                    "endColumn": 12,
+                    "endOffset": 5926
+                },
+                "from": {
+                    "file": "D:\\Application Takbard\\Tukbard-master\\ViewPagerIndicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 62,
+                        "startColumn": 4,
+                        "startOffset": 5678,
+                        "endLine": 65,
+                        "endColumn": 12,
+                        "endOffset": 5926
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 66,
+                    "startColumn": 4,
+                    "startOffset": 5931,
+                    "endLine": 67,
+                    "endColumn": 12,
+                    "endOffset": 5965
+                },
+                "from": {
+                    "file": "D:\\Application Takbard\\Tukbard-master\\ViewPagerIndicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 66,
+                        "startColumn": 4,
+                        "startOffset": 5931,
+                        "endLine": 67,
+                        "endColumn": 12,
+                        "endOffset": 5965
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 68,
+                    "startColumn": 4,
+                    "startOffset": 5970,
+                    "endLine": 71,
+                    "endColumn": 12,
+                    "endOffset": 6155
+                },
+                "from": {
+                    "file": "D:\\Application Takbard\\Tukbard-master\\ViewPagerIndicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 68,
+                        "startColumn": 4,
+                        "startOffset": 5970,
+                        "endLine": 71,
+                        "endColumn": 12,
+                        "endOffset": 6155
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 72,
+                    "startColumn": 4,
+                    "startOffset": 6160,
+                    "endLine": 82,
+                    "endColumn": 12,
+                    "endOffset": 6757
+                },
+                "from": {
+                    "file": "D:\\Application Takbard\\Tukbard-master\\ViewPagerIndicator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 72,
+                        "startColumn": 4,
+                        "startOffset": 6160,
+                        "endLine": 82,
+                        "endColumn": 12,
+                        "endOffset": 6757
+                    }
+                }
+            }
+        ]
+    }
+]

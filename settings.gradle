@@ -1,0 +1,3 @@
+include ':app', ':ripple', ':spots-dialog-master'
+include ':extendedCalendarView'
+include ':ViewPagerIndicator'

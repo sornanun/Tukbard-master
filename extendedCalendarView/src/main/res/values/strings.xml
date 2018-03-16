@@ -1,0 +1,12 @@
+<resources>
+
+    <string name="app_name">ExtendedCalendarView</string>
+    <string name="monday">จันทร์</string>
+    <string name="tuesday">อังคาร</string>
+    <string name="wednesday">พุธ</string>
+    <string name="thursday">พฤหัส</string>
+    <string name="friday">ศุกร์</string>
+    <string name="saturday">เสาร์</string>
+    <string name="sunday">อาทิตย์</string>
+
+</resources>

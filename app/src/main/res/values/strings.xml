@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">ใส่บาตร</string>
+    <string name="app_content">การใส่บาตรไม่ใช่เรื่องยากสำหรับคุณอีกต่อไป</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="parse_application_id">xwh8EUo1w8ZmezPsxYfOwlU7z5yghX9aJj0yGyw2</string>
+    <string name="parse_client_key">HMIS2zYNT6F12TCqe0FmMJKgTgnntVGDwXr5cOHs</string>
+    <string name="setting">ตั้งค่าแอพพลิเคชั่น</string>
+    <string name="about">เกี่ยวกับแอพ</string>
+    <string name="open_map_button">ค้นหาตำแหน่งพระสงฆ์</string>
+    <string name="open_tutorial_button">วิธีการใส่บาตร</string>
+    <string name="title_activity_home">ใส่บาตร</string>
+    <string name="title_activity_settings">ตั้งค่า</string>
+    <string name="title_activity_calendar">ปฏิทินวันพระ</string>
+    <string name="action_settings">ตั้งค่าแอพพลิเคชั่น</string>
+    <string name="next_slide">เลื่อนด้านข้างดูเดือนถัดไป</string>
+    <string name="title_activity_tutorial">วิธีการใส่บาตร</string>
+    <string name="title_activity_calendar2">ปฏิทินวันพระ</string>
+    <string name="event_date">วันที่</string>
+    <string name="event_type">ประเภท</string>
+    <string name="event_description">วันไทย</string>
+    <string name="event_click">แตะวันที่เพื่อแสดงรายละเอียด</string>
+    <string name="event_click_not_found">ไม่พบข้อมูลวันพระในวันที่คุณเลือก</string>
+    <string name="title_activity_maps_monk">Map</string>
+    <string name="title_activity_map_location">Map</string>
+
+</resources>

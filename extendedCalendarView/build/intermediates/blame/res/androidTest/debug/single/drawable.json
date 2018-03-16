@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\Application Takbard\\Tukbard-master\\extendedCalendarView\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\today.xml",
+        "source": "D:\\Application Takbard\\Tukbard-master\\extendedCalendarView\\build\\intermediates\\bundles\\debug\\res\\drawable\\today.xml"
+    },
+    {
+        "merged": "D:\\Application Takbard\\Tukbard-master\\extendedCalendarView\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\normal_day.xml",
+        "source": "D:\\Application Takbard\\Tukbard-master\\extendedCalendarView\\build\\intermediates\\bundles\\debug\\res\\drawable\\normal_day.xml"
+    },
+    {
+        "merged": "D:\\Application Takbard\\Tukbard-master\\extendedCalendarView\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\day_selected.xml",
+        "source": "D:\\Application Takbard\\Tukbard-master\\extendedCalendarView\\build\\intermediates\\bundles\\debug\\res\\drawable\\day_selected.xml"
+    },
+    {
+        "merged": "D:\\Application Takbard\\Tukbard-master\\extendedCalendarView\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\date_number_background.xml",
+        "source": "D:\\Application Takbard\\Tukbard-master\\extendedCalendarView\\build\\intermediates\\bundles\\debug\\res\\drawable\\date_number_background.xml"
+    }
+]

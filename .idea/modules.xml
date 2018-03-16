@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Tukbard.iml" filepath="$PROJECT_DIR$/Tukbard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tukbard-master.iml" filepath="$PROJECT_DIR$/Tukbard-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ViewPagerIndicator/ViewPagerIndicator.iml" filepath="$PROJECT_DIR$/ViewPagerIndicator/ViewPagerIndicator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/extendedCalendarView/extendedCalendarView.iml" filepath="$PROJECT_DIR$/extendedCalendarView/extendedCalendarView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ripple/ripple.iml" filepath="$PROJECT_DIR$/ripple/ripple.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spots-dialog-master/spots-dialog-master.iml" filepath="$PROJECT_DIR$/spots-dialog-master/spots-dialog-master.iml" />
+    </modules>
+  </component>
+</project>

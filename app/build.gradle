@@ -1,0 +1,50 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 25
+    buildToolsVersion '25.0.3'
+    defaultConfig {
+        applicationId "com.example.sornanun.tukbard"
+        minSdkVersion 19
+        targetSdkVersion 25
+        versionCode 1
+        versionName "1.0"
+        multiDexEnabled true
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+    dexOptions {
+        javaMaxHeapSize "4g"
+    }
+    productFlavors {
+    }
+}
+
+dependencies {
+    //compile fileTree(dir: 'libs', include: ['*.jar'])
+    compile project(':extendedCalendarView')
+    compile project(':ripple')
+    compile project(':ViewPagerIndicator')
+    compile project(':spots-dialog-master')
+
+    compile 'com.android.support:design:25.2.0'
+    compile 'com.android.support:support-v4:25.0.0'
+    compile 'com.android.support:appcompat-v7:25.0.0'
+    compile 'com.google.android.gms:play-services:10.2.6'
+    compile 'com.google.android.gms:play-services-ads:10.2.6'
+    compile 'com.google.android.gms:play-services-auth:10.2.6'
+    compile 'com.google.android.gms:play-services-gcm:10.2.6'
+    compile 'com.nineoldandroids:library:2.4.0'
+    compile 'com.daimajia.easing:library:1.0.1@aar'
+    compile 'com.daimajia.androidanimations:library:1.1.3@aar'
+    compile 'com.google.firebase:firebase-database:10.2.6'
+    compile 'com.google.android.gms:play-services-maps:10.2.6'
+    testCompile 'junit:junit:4.12'
+}
+
+
+apply plugin: 'com.google.gms.google-services'

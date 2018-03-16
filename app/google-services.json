@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "899091170809",
+    "firebase_url": "https://bintabardandtakbarddb.firebaseio.com",
+    "project_id": "bintabardandtakbarddb",
+    "storage_bucket": "bintabardandtakbarddb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:899091170809:android:388b70c13e006a0a",
+        "android_client_info": {
+          "package_name": "com.example.sornanun.binthabard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "899091170809-3mcdc94cj5u2c9uhsugr62fj88ocu06i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sornanun.binthabard",
+            "certificate_hash": "168ad002fe03d2e2e1350a11df4b7975e6ca67cc"
+          }
+        },
+        {
+          "client_id": "899091170809-tj11vhpilb3d7l90ra6un9iq9pdadlub.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMjawXKjrJ-vyZmj7qmbkv-PxMgo86vJQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "899091170809-tj11vhpilb3d7l90ra6un9iq9pdadlub.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:899091170809:android:48653b769619c093",
+        "android_client_info": {
+          "package_name": "com.example.sornanun.tukbard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "899091170809-gr26lve52m4gefht46hr7a8l9o4bkdl1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sornanun.tukbard",
+            "certificate_hash": "168ad002fe03d2e2e1350a11df4b7975e6ca67cc"
+          }
+        },
+        {
+          "client_id": "899091170809-tj11vhpilb3d7l90ra6un9iq9pdadlub.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMjawXKjrJ-vyZmj7qmbkv-PxMgo86vJQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "899091170809-tj11vhpilb3d7l90ra6un9iq9pdadlub.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

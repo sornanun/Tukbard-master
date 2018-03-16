@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="com.example.sornanun.tukbard.HomeActivity"
+    tools:showIn="@layout/activity_home"
+    android:background="#f97827">
+
+    <com.balysv.materialripple.MaterialRippleLayout
+        android:id="@+id/ripple"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/ripple2"
+        app:mrl_rippleColor="#ffffff"
+        app:mrl_rippleOverlay="true">
+
+        <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+            android:id="@+id/openMap"
+            android:layout_width="fill_parent"
+            android:layout_height="110dp"
+            android:layout_alignParentStart="true"
+            android:background="#ffbc3f"
+            android:orientation="vertical">
+
+            <ImageView xmlns:android="http://schemas.android.com/apk/res/android"
+                android:id="@+id/imageviewMain"
+                android:layout_width="80dp"
+                android:layout_height="match_parent"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentTop="true"
+                android:layout_marginStart="32dp"
+                android:src="@drawable/map" />
+
+            <TextView
+                android:id="@+id/textView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="10dp"
+                android:layout_marginStart="27dp"
+                android:layout_toEndOf="@+id/imageviewMain"
+                android:text="@string/open_map_button"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:textColor="#fff"
+                android:textSize="20dp" />
+        </RelativeLayout>
+    </com.balysv.materialripple.MaterialRippleLayout>
+
+    <com.balysv.materialripple.MaterialRippleLayout
+        android:id="@+id/ripple2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/ripple3"
+        app:mrl_rippleColor="#ffffff"
+        app:mrl_rippleOverlay="true">
+
+        <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+            android:id="@+id/openCalendar"
+            android:layout_width="fill_parent"
+            android:layout_height="110dp"
+            android:layout_alignParentStart="true"
+            android:background="#f97827"
+            android:orientation="vertical">
+
+            <ImageView xmlns:android="http://schemas.android.com/apk/res/android"
+                android:id="@+id/imageviewMain2"
+                android:layout_width="80dp"
+                android:layout_height="match_parent"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentTop="true"
+                android:layout_marginStart="32dp"
+                android:src="@drawable/calendar" />
+
+            <TextView
+                android:id="@+id/textView2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="10dp"
+                android:layout_marginStart="27dp"
+                android:layout_toEndOf="@+id/imageviewMain2"
+                android:text="@string/title_activity_calendar"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:textColor="#fff"
+                android:textSize="20dp" />
+        </RelativeLayout>
+
+    </com.balysv.materialripple.MaterialRippleLayout>
+
+
+    <com.balysv.materialripple.MaterialRippleLayout
+        android:id="@+id/ripple3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        app:mrl_rippleColor="#ffffff"
+        app:mrl_rippleOverlay="true"
+        android:gravity="bottom">
+
+        <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+            android:id="@+id/openTutorial"
+            android:layout_width="fill_parent"
+            android:layout_height="111dp"
+            android:layout_alignParentStart="true"
+            android:background="#f95a25"
+            android:orientation="vertical">
+
+            <ImageView xmlns:android="http://schemas.android.com/apk/res/android"
+                android:id="@+id/imageviewMain3"
+                android:layout_width="80dp"
+                android:layout_height="match_parent"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentTop="true"
+                android:layout_marginStart="32dp"
+                android:src="@drawable/question" />
+
+            <TextView
+                android:id="@+id/textView3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="10dp"
+                android:layout_marginStart="27dp"
+                android:layout_toEndOf="@+id/imageviewMain3"
+                android:text="@string/open_tutorial_button"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:textColor="#fff"
+                android:textSize="20dp" />
+        </RelativeLayout>
+    </com.balysv.materialripple.MaterialRippleLayout>
+
+    <ImageView
+        android:id="@+id/trupImage"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:adjustViewBounds="true"
+        android:src="@drawable/give_food"
+        android:scaleType="fitCenter"
+        android:layout_alignParentTop="true"
+        android:layout_above="@id/ripple"/>
+
+
+</RelativeLayout>

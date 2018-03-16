@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <com.example.sornanun.tukbard.SeekBarListPreference
+        android:defaultValue="1"
+        android:dialogMessage="เลื่อนแถบระยะไปทางซ้ายหรือขวา"
+        android:entries="@array/distanceArray"
+        android:entryValues="@array/distanceValues"
+        android:key="distance_for_look"
+        android:summary="ค่าที่ตั้งไว้ %s"
+        android:title="ระยะการมองหาพระสงฆ์"
+        />
+
+    <com.example.sornanun.tukbard.SeekBarListPreference
+        android:defaultValue="10"
+        android:dialogMessage="เลื่อนแถบเวลาไปทางซ้ายหรือขวา"
+        android:entries="@array/timeListArray"
+        android:entryValues="@array/timeListValues"
+        android:key="time_for_update_location"
+        android:summary="ค่าที่ตั้งไว้ %s"
+        android:title="เวลาอัพเดทสถานที่พระสงฆ์"
+        />
+
+</PreferenceScreen>

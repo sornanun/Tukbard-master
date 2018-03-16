@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="distanceArray">
+        <item>1 กิโลเมตร</item>
+        <item>2 กิโลเมตร</item>
+        <item>3 กิโลเมตร</item>
+        <item>4 กิโลเมตร</item>
+        <item>5 กิโลเมตร</item>
+        <item>10 กิโลเมตร</item>
+    </string-array>
+
+    <string-array name="distanceValues">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>10</item>
+    </string-array>
+
+    <string-array name="timeListArray">
+        <item>10 วินาที</item>
+        <item>20 วินาที</item>
+        <item>30 วินาที</item>
+        <item>1 นาที</item>
+        <item>3 นาที</item>
+        <item>5 นาที</item>
+        <item>10 นาที</item>
+    </string-array>
+
+    <!--This is going to be in seconds-->
+    <string-array name="timeListValues">
+        <item>10</item>
+        <item>20</item>
+        <item>30</item>
+        <item>60</item>
+        <item>180</item>
+        <item>300</item>
+        <item>600</item>
+    </string-array>
+
+</resources>
